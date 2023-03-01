@@ -62,21 +62,6 @@
                 }
             ],
             "result": {}
-        },
-        {
-            "description": "Add two Import other JS",
-            "id": "ADDTWO",
-            "name": "ADDTWO",
-            "parameters": [
-                {
-                    "description": "First number",
-                    "name": "first",
-                    "type": "number"
-                }
-            ],
-            "result": {
-                "type": "number"
-            }
         }
     ]
 }
